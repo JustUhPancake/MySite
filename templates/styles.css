@@ -1,0 +1,42 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .projects-tab {
+    background-color: #ffcccc; /* Light pink */
+    padding: 20px;
+  }
+  
+  .projects-tab h1 {
+    font-weight: bold;
+  }
+  
+  .ai-assistant-tab {
+    background-color: #ccffcc; /* Light green */
+    padding: 20px;
+  }
+  
+  .ai-assistant-tab h1 {
+    font-weight: bold;
+  }
+  
+  .bottom-section {
+    background-color: #ccccff; /* Light blue */
+    padding: 20px;
+  }
+  
+  .bottom-section h2 {
+    font-weight: bold;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  .content-scrollable {
+    height: calc(100% - 40px);
+    overflow-y: scroll;
+  }
+  
